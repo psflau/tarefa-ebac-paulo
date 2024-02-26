@@ -11,7 +11,6 @@ public class Aplicacao {
         List<String> lista = new ArrayList<>();
 
         System.out.println("Por favor digite o nome e o gênero, separados por traço e vírgula.");
-        System.out.println("Exemplo:\n" + "MARCIO-MASCULINO,LUARA-FEMININO,LETICIA-FEMININO\n");
 
         System.out.println("Digite aqui --> ");
         String entrada = scanner.nextLine();
